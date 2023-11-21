@@ -11,3 +11,19 @@ h2, h3, p {
   font-family: "Geogria", serif;
   color: #ffffff;
 }
+
+.css1{
+  background-color:yellow;
+  font-size:50px;
+  font-family: georgia;
+  font-style:italic;
+  font-weight:bold;
+  color:purple;
+  text-shadow: 2px 2px 8px #FF0000;
+}
+
+.css3{
+  background-color:rgb(159, 233, 243);
+  border: 5px solid;
+  border-radius: 10px;
+}
